@@ -25,6 +25,7 @@ dependencies:
   cupertino_icons: ^0.1.2
 
   intl: ^0.15.8
+  flutter_screenutil: ^0.5.2
 
 
 dev_dependencies:
